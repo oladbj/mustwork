@@ -46,55 +46,6 @@ body {
 
 }
 
-#container1	{
-	color: white;
-	font-size: 70px;
-  	border-radius: 25px;
-  	margin-left: 150px;
-  	margin-right: 150px;
-  	background: #73AD21;
-  	text-align: center;
-  	
-
- 	
-
-
-}
-#container2	{
-	color: white;
-	font-size: 70px;
-  	border-radius: 25px;
-  	background: #73AD21;
-  	margin-left: 150px;
-  	margin-right: 150px;
-  	text-align: center;
-  	
-}
-#container3	{
-	color: white;
-	font-size: 70px;
-  	border-radius: 25px;
-  	background: #73AD21;
-  	margin-left: 150px;
-  	margin-right: 150px;
-  	text-align: center;
-  	
-
-}
-#container4	{
-	color: white;
-	font-size: 70px;
-  	border-radius: 25px;
-  	background: #73AD21;
-  	margin-left: 150px;
-  	margin-right: 150px;
-  	text-align: center;
-
- 	
-}
-
- 	
-
-
+#background {
 	
-
+}
