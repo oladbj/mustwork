@@ -57,7 +57,7 @@ body {
   font-size: 40px;
     border-radius: 25px;
     margin-left: 40px;
-  
+    margin-right: 40px;
     background: #73AD21;
     text-align: center;
 
@@ -68,31 +68,34 @@ body {
 }
 #container2 {
   color: white;
-  font-size: 70px;
+  font-size: 40px;
     border-radius: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
     background: #73AD21;
-    margin-left: 150px;
-    margin-right: 150px;
     text-align: center;
+
 }
 #container3 {
   color: white;
-  font-size: 70px;
+  font-size: 40px;
     border-radius: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
     background: #73AD21;
-    margin-left: 150px;
-    margin-right: 150px;
     text-align: center;
+
 
 }
 #container4 {
   color: white;
-  font-size: 70px;
+  font-size: 40px;
     border-radius: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
     background: #73AD21;
-    margin-left: 150px;
-    margin-right: 150px;
     text-align: center;
+
 }
 
 
